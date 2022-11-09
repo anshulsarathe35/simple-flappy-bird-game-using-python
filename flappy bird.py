@@ -15,6 +15,7 @@ def inside(point):
     "Return True if point on screen."
     return -200 < point.x < 200 and -200 < point.y < 200
 
+#creating a function for bird, it is alive
 def draw(alive):
     "Draw screen objects."
     clear()
@@ -32,6 +33,8 @@ def draw(alive):
         dot(20, 'black')
 
     update()
+    
+ #for moving the bird
 
 def move():
     "Update object positions."
