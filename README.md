@@ -4,6 +4,7 @@ A Flappy Bird game using Python.
 Modules used: 
 1. pygame
 2. turtle graphics
+3. random
 
 ####################################
 
