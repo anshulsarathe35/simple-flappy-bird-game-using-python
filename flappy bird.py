@@ -6,6 +6,7 @@ from freegames import vector
 bird = vector(0, 0)
 balls = []
 
+
 def tap(x, y):
     "Move bird up in response to screen tap."
     up = vector(0, 30)
