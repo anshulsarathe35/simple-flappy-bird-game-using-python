@@ -1,6 +1,6 @@
 # simple-flappy-bird-game-using-python
 
-A Flappy Bird game using Python.
+A Flappy Bird game using Python. 
 Modules used: 
 1. pygame
 2. turtle graphics
